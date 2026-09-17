@@ -1,5 +1,6 @@
 # competitive-traffic-growth-expert
 
+[中文](README.md) | English
 
 **Works with:** ChatGPT / Codex, Claude / Claude Code, Antigravity, Cursor, WorkBuddy, Doubao, DeepSeek, Kimi / Kimi Code CLI, MiniMax / MiniMax Code, Zhipu, Tencent Yuanbao, and other AI products that support file uploads or Agent Skills.
 
