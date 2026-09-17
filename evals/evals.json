@@ -1,0 +1,29 @@
+{
+  "skill_name": "competitive-traffic-growth-expert",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我想研究一个新的 B2B SaaS 赛道，只知道赛道名和 5 个可能竞品，请生成一份可执行的竞品分析 Excel，并说明没有付费流量数据时能交付到什么等级。",
+      "expected_output": "Uses the skill to create or request the standard input workflow, selects public_evidence or partial_quantitative when data is sparse, and does not fabricate traffic metrics.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "我已经有 Similarweb 导出的月度流量、渠道、国家和社交数据，想批量生成 3 个赛道报告。请用模板处理，并输出每个 task_id 的报告和批次结果清单。",
+      "expected_output": "Uses task_id isolation, validates source口径, generates one report per enabled task, and includes a batch CSV with success/degraded/failed/skipped status.",
+      "files": [
+        "assets/竞品分析_批量输入模板.xlsx"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "请参考样例输出的风格，为一个 AI 工具赛道生成类似的高管汇报版 Excel。需要 500 字摘要和至少一个增长验证实验。",
+      "expected_output": "Uses the sample only for structure and style, not conclusions; includes a concise executive summary, conclusion-first sections, traceable tables/charts, and one falsifiable growth experiment.",
+      "files": [
+        "references/AI 视频赛道竞品分析_样例输出.xlsx"
+      ]
+    }
+  ]
+}
+
+

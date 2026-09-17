@@ -2,6 +2,8 @@
 
 [中文](README.md) | English
 
+[![skills.sh](https://skills.sh/b/Loissun1037/competitive-traffic-growth-expert)](https://skills.sh/Loissun1037/competitive-traffic-growth-expert)
+
 **Works with:** ChatGPT / Codex, Claude / Claude Code, Antigravity, Cursor, WorkBuddy, Doubao, DeepSeek, Kimi / Kimi Code CLI, MiniMax / MiniMax Code, Zhipu, Tencent Yuanbao, and other AI products that support file uploads or Agent Skills.
 
 Turn a sector topic, competitor list, and multi-channel traffic data into an openable, traceable, and reusable `XXX Sector Competitor Analysis.xlsx` workbook. This skill is built for traffic growth operators, SEM teams, market-entry research, and competitor review workflows. It does not stop at a research plan; it delivers an Excel report that can be used for stakeholder reporting, retrospectives, and the next round of growth experiments.

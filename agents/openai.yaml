@@ -1,0 +1,8 @@
+interface:
+  display_name: "Competitive Traffic Growth Expert"
+  short_description: "将竞品流量数据转成可追溯的增长分析 Excel"
+  brand_color: "#17365D"
+  default_prompt: "使用 $competitive-traffic-growth-expert，把我提供的赛道、竞品与流量数据生成可追溯的竞品分析 Excel。"
+
+policy:
+  allow_implicit_invocation: true
