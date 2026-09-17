@@ -1,4 +1,4 @@
-# competitive-traffic-growth-expert
+# competitive-traffic-growth-expert  竞品流量增长分析专家
 
 中文 | [English](README-US.md)
 
