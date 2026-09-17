@@ -2,7 +2,7 @@
 
 [中文](README.md) | English
 
-[![skills.sh](https://skills.sh/b/Loissun1037/competitive-traffic-growth-expert)](https://skills.sh/Loissun1037/competitive-traffic-growth-expert)
+
 
 **Works with:** ChatGPT / Codex, Claude / Claude Code, Antigravity, Cursor, WorkBuddy, Doubao, DeepSeek, Kimi / Kimi Code CLI, MiniMax / MiniMax Code, Zhipu, Tencent Yuanbao, and other AI products that support file uploads or Agent Skills.
 
