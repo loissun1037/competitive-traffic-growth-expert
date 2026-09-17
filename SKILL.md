@@ -1,5 +1,5 @@
 ---
-name: competitive-traffic-growth-expert
+name: competitive-traffic-growth-expert  竞品流量增长分析专家
 description: 将赛道命题、竞品清单和多渠道流量数据，转化为可打开、可追溯、可复用的《XXX赛道竞品分析.xlsx》及配套增长结论。适用于流量增长、SEM、市场进入和竞品复盘场景；支持平台导出、授权 API 与公开资料降级模式，严格区分事实、计算和推断，所有关键数字回溯到输入数据、工具导出或公开来源，并输出高管摘要、麦肯锡式图表结构和具备证伪条件的增长动作建议。
 ---
 
