@@ -1,6 +1,6 @@
 # competitive-traffic-growth-expert
 
-中文 | [English](README.en.md)
+中文 | [English](README-US.md)
 
 [![skills.sh](https://skills.sh/b/Loissun1037/competitive-traffic-growth-expert)](https://skills.sh/Loissun1037/competitive-traffic-growth-expert)
 
