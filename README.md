@@ -2,7 +2,6 @@
 
 中文 | [English](README-US.md)
 
-[![skills.sh](https://skills.sh/b/Loissun1037/competitive-traffic-growth-expert)](https://skills.sh/Loissun1037/competitive-traffic-growth-expert)
 
 **适配：** ChatGPT / Codex、Claude / Claude Code、Antigravity、Cursor、WorkBuddy、豆包、DeepSeek、Kimi / Kimi Code CLI、MiniMax / MiniMax Code、智谱、腾讯元宝，以及其他支持文件上传或 Agent Skills 的 AI。
 
